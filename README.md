@@ -9,7 +9,7 @@ El dataset incluye información de uso (llamadas, mensajes y duración), con pre
 
 → Notebook principal con:
 
-Limpieza de datos, Tratamiento de valores faltantes,,Análisis exploratorio (EDA), Visualizaciones, Detección de outliers, Segmentación de clientes, Análisis ejecutivo.
+Limpieza de datos, Tratamiento de valores faltantes, Análisis exploratorio (EDA), Visualizaciones, Detección de outliers, Segmentación de clientes, Análisis ejecutivo.
 
 **S7_Version_Estudiante_Project_ConnectaTel.ipynb** 
 → Versión generada desde Colab (respaldo del análisis)
@@ -35,20 +35,26 @@ Segmentar clientes por uso y edad, Generar insights para el negocio.
 
 ## 📊 Principales hallazgos
 
-La mayoría de los usuarios se concentra en el segmento de uso medio
-Existe un grupo reducido de alto uso, clave para ingresos
-Se detectaron outliers en minutos de llamadas (usuarios intensivos)
-Predominan los adultos y adultos mayores
+-La mayoría de los usuarios se concentra en el segmento de uso medio
+
+-Existe un grupo reducido de alto uso, clave para ingresos
+
+-Se detectaron outliers en minutos de llamadas (usuarios intensivos)
+
+-Predominan los adultos y adultos mayores
 
 ## 💡 Impacto para el negocio
-Identificación de clientes de alto valor
-Oportunidades de crecimiento en usuarios de bajo uso
-Base para diseñar planes diferenciados
-Mejora en estrategias de segmentación
+
+-Identificación de clientes de alto valor
+
+-Oportunidades de crecimiento en usuarios de bajo uso
+
+-Base para diseñar planes diferenciados
+
+-Mejora en estrategias de segmentación
 
 ## 🚀 Tecnologías utilizadas
-Python / Pandas / NumPy / Matplotlib / Seaborn
-Google Colab
+Python / Pandas / NumPy / Matplotlib / Seaborn / Google Colab
 
 ## 👤 Autor
 Proyecto desarrollado por Víctor Méndez García
